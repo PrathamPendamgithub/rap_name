@@ -1,0 +1,301 @@
+{
+ "name": [
+    {
+     "name": "XXXTentacion",
+     "url": "https://www.thefamouspeople.com/profiles/xxxtentacion-32895.php",
+     "img": "https://www.thefamouspeople.com/profiles/thumbs/xxxtentacion-1.jpg",
+     "img_url": "https://www.thefamouspeople.com/profiles/xxxtentacion-32895.php"
+    },
+    {
+     "name": "Eminem",
+     "url": "https://www.thefamouspeople.com/profiles/eminem-3985.php",
+     "img": "https://www.thefamouspeople.com/profiles/thumbs/eminem-7.jpg",
+     "img_url": "https://www.thefamouspeople.com/profiles/eminem-3985.php"
+    },
+    {
+     "name": "Tupac Shakur",
+     "url": "https://www.thefamouspeople.com/profiles/tupac-amaru-shakur-3096.php",
+     "img": "https://www.thefamouspeople.com/profiles/thumbs/tupac-shakur-2.jpg",
+     "img_url": "https://www.thefamouspeople.com/profiles/tupac-amaru-shakur-3096.php"
+    },
+    {
+     "name": "Drake",
+     "url": "https://www.thefamouspeople.com/profiles/drake-15325.php",
+     "img": "https://www.thefamouspeople.com/profiles/thumbs/drake-4.jpg",
+     "img_url": "https://www.thefamouspeople.com/profiles/drake-15325.php"
+    },
+    {
+     "name": "Snoop Dogg",
+     "url": "https://www.thefamouspeople.com/profiles/snoop-dogg-2872.php",
+     "img": "https://www.thefamouspeople.com/profiles/thumbs/snoop-dogg-1.jpg",
+     "img_url": "https://www.thefamouspeople.com/profiles/snoop-dogg-2872.php"
+    },
+    {
+     "name": "Juice WRLD",
+     "url": "https://www.thefamouspeople.com/profiles/juice-wrld-42371.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/juice-wrld-42371.php"
+    },
+    {
+     "name": "Kanye West",
+     "url": "https://www.thefamouspeople.com/profiles/kanye-west-3939.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/kanye-west-3939.php"
+    },
+    {
+     "name": "Travis Scott",
+     "url": "https://www.thefamouspeople.com/profiles/travis-scott-37591.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/travis-scott-37591.php"
+    },
+    {
+     "name": "Nicki Minaj",
+     "url": "https://www.thefamouspeople.com/profiles/nicki-minaj-6052.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/nicki-minaj-6052.php"
+    },
+    {
+     "name": "Dr. Dre",
+     "url": "https://www.thefamouspeople.com/profiles/dr-dre-6207.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/dr-dre-6207.php"
+    },
+    {
+     "name": "Ice Cube",
+     "url": "https://www.thefamouspeople.com/profiles/oshea-jackson-1662.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/oshea-jackson-1662.php"
+    },
+    {
+     "name": "The Notorious B.I.G.",
+     "url": "https://www.thefamouspeople.com/profiles/the-notorious-b-i-g--6705.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/the-notorious-b-i-g--6705.php"
+    },
+    {
+     "name": "Eazy-E",
+     "url": "https://www.thefamouspeople.com/profiles/eazy-e-6545.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/eazy-e-6545.php"
+    },
+    {
+     "name": "Lil Wayne",
+     "url": "https://www.thefamouspeople.com/profiles/lil-wayne-9156.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/lil-wayne-9156.php"
+    },
+    {
+     "name": "Kendrick Lamar",
+     "url": "https://www.thefamouspeople.com/profiles/kendrick-lamar-30747.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/kendrick-lamar-30747.php"
+    },
+    {
+     "name": "Lil Uzi Vert",
+     "url": "https://www.thefamouspeople.com/profiles/lil-uzi-vert-32823.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/lil-uzi-vert-32823.php"
+    },
+    {
+     "name": "Jay-Z",
+     "url": "https://www.thefamouspeople.com/profiles/shawn-corey-carter-1772.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/shawn-corey-carter-1772.php"
+    },
+    {
+     "name": "J. Cole",
+     "url": "https://www.thefamouspeople.com/profiles/j-cole-15463.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/j-cole-15463.php"
+    },
+    {
+     "name": "Wiz Khalifa",
+     "url": "https://www.thefamouspeople.com/profiles/wiz-khalifa-14299.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/wiz-khalifa-14299.php"
+    },
+    {
+     "name": "DMX",
+     "url": "https://en.wikipedia.org/wiki/DMX_(rapper)",
+     "img": "https://www.thefamouspeople.com/rappers.php"
+    },
+    {
+     "name": "Nas",
+     "url": "https://www.thefamouspeople.com/profiles/nas-8897.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/nas-8897.php"
+    },
+    {
+     "name": "50 Cent",
+     "url": "https://www.thefamouspeople.com/profiles/50-cent-9333.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/50-cent-9333.php"
+    },
+    {
+     "name": "T.I.",
+     "url": "https://www.thefamouspeople.com/profiles/t-i--32941.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/t-i--32941.php"
+    },
+    {
+     "name": "Ice-T",
+     "url": "https://www.thefamouspeople.com/profiles/ice-t-5448.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/ice-t-5448.php"
+    },
+    {
+     "name": "Kid Cudi",
+     "url": "https://www.thefamouspeople.com/profiles/kid-cudi-15163.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/kid-cudi-15163.php"
+    },
+    {
+     "name": "Post Malone",
+     "url": "https://www.thefamouspeople.com/profiles/post-malone-41888.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/post-malone-41888.php"
+    },
+    {
+     "name": "Ludacris",
+     "url": "https://www.thefamouspeople.com/profiles/ludacris-2194.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/ludacris-2194.php"
+    },
+    {
+     "name": "LL Cool J",
+     "url": "https://www.thefamouspeople.com/profiles/ll-cool-j-2164.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/ll-cool-j-2164.php"
+    },
+    {
+     "name": "Lil Nas X",
+     "url": "https://en.wikipedia.org/wiki/Lil_Nas_X",
+     "img": "https://www.thefamouspeople.com/rappers.php"
+    },
+    {
+     "name": "Logic",
+     "url": "https://www.thefamouspeople.com/profiles/logic-sir-robert-bryson-hall-29823.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/logic-sir-robert-bryson-hall-29823.php"
+    },
+    {
+     "name": "DaBaby",
+     "url": "https://www.thefamouspeople.com/profiles/dababy-44989.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/dababy-44989.php"
+    },
+    {
+     "name": "Cardi B",
+     "url": "https://www.thefamouspeople.com/profiles/belcalis-almanzar-29488.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/belcalis-almanzar-29488.php"
+    },
+    {
+     "name": "Mac Miller",
+     "url": "https://www.thefamouspeople.com/profiles/mac-miller-15936.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/mac-miller-15936.php"
+    },
+    {
+     "name": "Donald Glover",
+     "url": "https://www.thefamouspeople.com/profiles/donald-glover-14331.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/donald-glover-14331.php"
+    },
+    {
+     "name": "Lil Peep",
+     "url": "https://www.thefamouspeople.com/profiles/lil-peep-42637.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/lil-peep-42637.php"
+    },
+    {
+     "name": "Doja Cat",
+     "url": "https://www.thefamouspeople.com/profiles/doja-cat-43058.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/doja-cat-43058.php"
+    },
+    {
+     "name": "André 3000",
+     "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_3000",
+     "img": "https://www.thefamouspeople.com/rappers.php"
+    },
+    {
+     "name": "Rick Ross",
+     "url": "https://www.thefamouspeople.com/profiles/rick-ross-5096.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/rick-ross-5096.php"
+    },
+    {
+     "name": "Megan Thee Stallion",
+     "url": "https://www.thefamouspeople.com/profiles/megan-thee-stallion-44866.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/megan-thee-stallion-44866.php"
+    },
+    {
+     "name": "Nipsey Hussle",
+     "url": "https://www.thefamouspeople.com/profiles/nipsey-hussle-15679.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/nipsey-hussle-15679.php"
+    },
+    {
+     "name": "21 Savage",
+     "url": "https://www.thefamouspeople.com/profiles/21-savage-32750.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/21-savage-32750.php"
+    },
+    {
+     "name": "YNW Melly",
+     "url": "https://www.thefamouspeople.com/profiles/ynw-melly-43269.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/ynw-melly-43269.php"
+    },
+    {
+     "name": "Method Man",
+     "url": "https://www.thefamouspeople.com/profiles/method-man-2343.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/method-man-2343.php"
+    },
+    {
+     "name": "Lauryn Hill",
+     "url": "https://www.thefamouspeople.com/profiles/lauryn-noel-hill-2114.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/lauryn-noel-hill-2114.php"
+    },
+    {
+     "name": "Will Smith",
+     "url": "https://www.thefamouspeople.com/profiles/willard-christopher-smith-jr-3182.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/willard-christopher-smith-jr-3182.php"
+    },
+    {
+     "name": "NBA YoungBoy",
+     "url": "https://www.thefamouspeople.com/profiles/nba-youngboy-36332.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/nba-youngboy-36332.php"
+    },
+    {
+     "name": "ASAP Rocky",
+     "url": "https://www.thefamouspeople.com/profiles/asap-rocky-15898.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/asap-rocky-15898.php"
+    },
+    {
+     "name": "Chance the Rapper",
+     "url": "https://www.thefamouspeople.com/profiles/chance-the-rapper-16144.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/chance-the-rapper-16144.php"
+    },
+    {
+     "name": "Future (Rapper)",
+     "url": "https://www.thefamouspeople.com/profiles/future-rapper-15949.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/future-rapper-15949.php"
+    },
+    {
+     "name": "Nick Cannon",
+     "url": "https://www.thefamouspeople.com/profiles/nick-cannon-9407.php",
+     "img": "https://www.thefamouspeople.com/rappers.php",
+     "img_url": "https://www.thefamouspeople.com/profiles/nick-cannon-9407.php"
+    }
+   ]
+  }
